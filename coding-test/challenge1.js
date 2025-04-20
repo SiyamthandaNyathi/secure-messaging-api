@@ -1,4 +1,4 @@
-//Linked List Manipulation
+//Linked List Manipulation Siyamthanda Nyathi
 class Node {
     constructor(value) {
       this.value = value;
